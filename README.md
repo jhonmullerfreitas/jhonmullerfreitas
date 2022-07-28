@@ -1,8 +1,8 @@
 ### Olá bem vindo ao meu repositório, eu sou o Jhon Muller 👋
 
 
-- 🔭 Atualmente trabalho com desenvolvimento front-end...
-- 🌱 Estou estudando tecnologias back-end com NodeJs
+- 🔭 Atualmente trabalho com desenvolvimento fullstack...
+- 🌱 Estou estudando Python...
 - 📫 Você pode me contatar nestes endereços:
   -Email: jmuller.jhon80@gmail.com
   -Linkedin: https://www.linkedin.com/in/jhon-muller-082a3420a/
