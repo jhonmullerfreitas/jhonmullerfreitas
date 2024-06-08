@@ -1,10 +1,12 @@
 ### Olá bem vindo ao meu repositório, eu sou o Jhon Muller 👋
 
 
-- 🔭 Atualmente trabalho com desenvolvimento web fullstack...
-- 🌱 Estou aperfeiçoandoo os meus conhecimentos em Engenharia de Software...
+- 🔭 Sou desenvolvedor web
+- 🌱 Estou cursando pós-graduação em Engenharia de Software
 - 📫 Você pode me contatar nestes endereços:
-  -Email: jmuller.jhon80@gmail.com
+  -Email pessoal: jmuller.jhon80@gmail.com
+  -Email profissional: desenvolvimento@techmuller.com
+  -Site: www.techmuller.com
   -Linkedin: https://www.linkedin.com/in/jhonmullerfreitas/
   
 <div align="center">
