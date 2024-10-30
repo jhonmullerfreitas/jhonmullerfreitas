@@ -2,11 +2,9 @@
 
 
 - 🔭 Sou desenvolvedor web
-- 🌱 Estou cursando pós-graduação em Engenharia de Software
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas e pós graduado em Engenharia de Software
 - 📫 Você pode me contatar nestes endereços:
 - Email pessoal: jmuller.jhon80@gmail.com
-- Email profissional: desenvolvimento@techmuller.com
-- Site: www.techmuller.com
 - Linkedin: https://www.linkedin.com/in/jhonmullerfreitas/
   
 <div align="center">
