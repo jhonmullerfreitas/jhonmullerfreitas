@@ -1,7 +1,7 @@
 ### Olá bem vindo ao meu repositório, eu sou o Jhon Muller 👋
 
 
-- 🔭 Sou desenvolvedor web
+- 🔭 Engenheiro de Software
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas e pós graduado em Engenharia de Software
 - 📫 Você pode me contatar nestes endereços:
 - Email pessoal: jmuller.jhon80@gmail.com
