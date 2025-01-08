@@ -1,16 +1,16 @@
-### Olá recrutador(a), seja bem vindo ao meu repositório, eu sou o Jhon Muller.
+### Hello recruiter, welcome to my repository, I'm Jhon Muller.
 
-- Sou um Engenheiro de Software com experiência em soluções web.
-- Sou graduado em Análise e Desenvolvimento de Sistemas e pós graduado em Engenharia de Software.
-- Possuo mais de 2 (dois) anos de experiência no desenvolvimento web utilizando diversas tecnologias como: Typescript, Node, Nest, GraphQL, React, Python, Django, Postgres e outras que podem tornar um sistema web mais robusto.
-- Tenho prontidão para trabalhar em ambos os lados do desenvolvimento, seja <b>Front-End</b> ou <b>Back-End</b>.
-- Além das minhas habilidades técnicas, possuo também as seguintes <b>Soft Skills</b>: Trabalho em equipe, inteligência emocional, comunicação assertiva e habilidade para detectar e solucionar problemas.
-- Fique à vontade para entrar em contato comigo caso deseje me conhecer melhor como profissional e descobrir de que forma posso contribuir com sua equipe:
+- I am a Software Engineer with experience in web solutions.
+- I have a degree in Systems Analysis and Development and a postgraduate degree in Software Engineering.
+- I have more than 2 (two) years of experience in web development using various technologies such as: Typescript, Node, Nest, GraphQL, React, Python, Django, Postgres and others that can make a web system more robust.
+- I am ready to work on both sides of development, whether <b>Front-End</b> or <b>Back-End</b>.
+- In addition to my technical skills, I also have the following <b>Soft Skills</b>: Teamwork, emotional intelligence, assertive communication and the ability to detect and solve problems.
+- Please feel free to contact me if you would like to get to know me better as a professional and find out how I can contribute to your team:
 - Gmail: jmuller.jhon80@gmail.com
 - Linkedin: https://www.linkedin.com/in/jhonmullerfreitas/
 
 
-- Logo abaixo você pode ver um dashboard simples das minhas atividades aqui no meu repositório:
+- Below you can see a simple dashboard of my activities here in my repository:
 <div align="left">
   <a href="https://github.com/jhonmullerfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonmullerfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,11 +18,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmullerfreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- Veja a lista das tecnologias e métodos que conheço tanto na teoria quanto na prática:
+- See the list of technologies and methods that I know both in theory and in practice:
   
 - Front-End:
   <ul>
-    <li>HTML 5;</li>
+    <li>HTML5;</li>
     <li>CSS;</li>
     <li>SCSS;</li>
     <li>Tailwind;</li>
@@ -36,18 +36,18 @@
 
 - Back-End:
   <ul>
-    <li>NodeJS;</li>
-    <li>NestJS;</li>
+    <li>Node;</li>
+    <li>Nest;</li>
     <li>GraphQL;</li>
     <li>Express;</li>
     <li>Postgres;</li>
     <li>Django;</li>
     <li>Django Rest Framework;</li>
-    <li>Versionamento com GIT;</li>
+    <li>Versioning with GIT;</li>
     <li>TypeOrm.</li>
   </ul>
 
-- Linguagens:
+- Languages:
   <ul>
     <li>TypeScript;</li>
     <li>JavaScript;</li>
@@ -55,7 +55,7 @@
     <li>SQL.</li>
   </ul>
 
-- Metodologias:
+- Methodologies:
   <ul>
     <li>Scrum;</li>
     <li>Kanban;</li>
@@ -63,7 +63,7 @@
   </ul>
 
   
-- Fique à vontade para ver um pouco das minhas habilidades técnicas aqui no repositório e não esquece de entrar em contato comigo em ;):
+- Feel free to see some of my technical skills here in the repository and don't forget to contact me at ;):
   <br></br>
   <a href = "mailto:jmuller.jhon80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br></br>
