@@ -9,18 +9,7 @@
 - Please feel free to contact me if you would like to get to know me better as a professional and find out how I can contribute to your team:
 - Gmail: jmuller.jhon80@gmail.com
 - Linkedin: https://www.linkedin.com/in/jhonmullerfreitas/
-
-
-- Below you can see a simple dashboard of my activities here in my repository:
-<div align="left">
-  <a href="https://github.com/jhonmullerfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonmullerfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmullerfreitas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 - About my recent performance in the market:
-
 - <a href="https://techagr.com/" >@TECH Technologies for Agriculture</a> (length of service: three years)
   - I worked as a Developer Analyst and IT Support in a company that develops technologies for agriculture. In this company, I was responsible for creating new server-side features using <a href="https://nestjs.com/">NestJs</a>, <a href="https://www.typescriptlang.org/">TypeScript</a> and <a href="https://graphql.org/">GraphQL</a>. I was also able to perform integrations for manipulating relational databases using <a href="https://typeorm.io/">TypeOrm</a>. I was also responsible for creating new interfaces using <a href="https://react.dev/" >React</a> with TypeScript and consuming the API using GraphQL. In this part of the Front-End, I was able to perform state management using <a href="https://redux.js.org/">Redux</a> and style the interface using <a href="https://sass-lang.com/">SCSS</a>. There were times when I needed to perform manipulations on the database using <a href="https://dbeaver.io/">SGDB DBeaver</a>, the SQL relational database language in <a href="https://www.postgresql.org/">PostgreSQL</a>. In terms of IT support, I carried out hardware monitoring using <a href="https://grafana.com/">Grafana</a>, <a href="https://azure.microsoft.com/pt-br/">Azure Cloud Shell</a>, <a href="https://www.nagios.org/story/?utm_feeditemid=,utm_device=c,utm_term=nagios,utm_source=google,utm_medium=ppc,utm_campaign=utmcampaign,hsa_cam=21981698791,hsa_grp=171738289579,hsa_mt=b,hsa_src=g,hsa_ad=724053139346,hsa_acc=6435916521,hsa_net=adwords,hsa_kw=nagios,hsa_tgt=kwd-46496522&utm_term=nagios&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=6435916521&hsa_cam=21981698791&hsa_grp=171738289579&hsa_ad=724053139346&hsa_src=g&hsa_tgt=kwd-46496522&hsa_kw=nagios&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAvvO7BhC-ARIsAGFyToV_2cRKd8pIwK5Ht0yKWdHCsr8h1oPv6-v3Rrye9bwwQUtK1BAs0rMaAltdEALw_wcB">Nagios</a> and <a href="https://www.rundeck.com/">Rundeck</a>. Still in support, I also had direct contact with customers for preventive maintenance feedback. It was in this company that I was able to feel challenged to adapt to new technologies and exceed my own expectations of myself.
 
