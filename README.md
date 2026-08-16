@@ -9,4 +9,22 @@ Aqui você encontrará informações importantes sobre mim e poderá conferir al
 - Possuo também uma formação técnica em Logística pelo Serviço Nacional de Aprendizagem Comercial - SENAC
 
 ## Sobre minhas experiências na área de Tecnologia da Informação:
-- Atuei como Monitor na Kenzie Academy Brasil no período de 2 meses (Fev/Abr 2022);
+- Atuei como Monitor na Kenzie Academy Brasil no período de 2 meses (Fev/2022 a Abr/2022);
+- Analista Desenvolvedor e Suporte N2 pela ATech: Inovação Tecnológica para Agropecuária por 3 anos (Abr/2023 a Mai/2026);
+- Professor de Informática Básica no Lótus: Instituto de Desenvolvimento Humano e Social (Junho/2025 a Set/2025);
+- Professor de Tecnologia em Curso Técnico de Informática (Manutenção e Redes) pelo Centro de Educação Tecnológica do Amazonas (CETAM) por 3 meses (Set/2025 a Dez/2025);
+
+## Tecnologias que domino:
+- Typescript, Javascript e Python;
+- NestJS, ExpressJS;
+- ReactTS/JS, Sass, CSS e HTML;
+- Postgres, SQL.
+
+## O que busco atualmente:
+- Melhorar meu conhecimento nas tecnologias que já domino;
+- Desenvolver habilidades em Ciência de Dados, Segurança da Informação e Infraestrutura.
+
+## Posições de Interesse:
+- Desenvolvedor Frontend;
+- Desenvolvedor Backend;
+- Analista de Sistemas.
