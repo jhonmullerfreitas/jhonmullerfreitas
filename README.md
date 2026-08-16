@@ -32,3 +32,4 @@ Aqui você encontrará informações importantes sobre mim e poderá conferir al
 ## Onde você me encontra:
 - Aqui no Github;
 - No Gmail: jmuller.jhon80@gmail.com
+- No Linkedin: https://www.linkedin.com/in/jhonmullerfreitas/
