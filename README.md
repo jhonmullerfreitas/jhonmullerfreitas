@@ -9,4 +9,4 @@ Aqui você encontrará informações importantes sobre mim e poderá conferir al
 - Possuo também uma formação técnica em Logística pelo Serviço Nacional de Aprendizagem Comercial - SENAC
 
 ## Sobre minhas experiências na área de Tecnologia da Informação:
-- Atuei como Monitor na Kenzie Academy Brasil no período de 2 meses (Fev de
+- Atuei como Monitor na Kenzie Academy Brasil no período de 2 meses (Fev/Abr 2022);
