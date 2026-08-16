@@ -29,7 +29,7 @@ Aqui você encontrará informações importantes sobre mim e poderá conferir al
 - Desenvolvedor Backend;
 - Analista de Sistemas.
 
-## Onde você me encontra:
+## Me envie o teste técnico e veja minhas habilidades de resolução de problemas em ação:
 - Aqui no Github;
 - No Gmail: jmuller.jhon80@gmail.com
 - No Linkedin: https://www.linkedin.com/in/jhonmullerfreitas/
