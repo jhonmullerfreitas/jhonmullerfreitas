@@ -3,6 +3,9 @@
 Seja muito bem vindo ao meu repositório.
 Aqui você encontrará informações importantes sobre mim e poderá conferir alguns projetos que desenvolvi com minhas habilidades em programação.
 
+## Atenção!
+- Devido a comunidade de desenvolvedores utilizar muito do idioma em inglês para documentar o projetos, boa parte dos projetos estarão em inglês, então fique à vontade para utilizar o tradutor do Google quando achar necessário.
+
 ## Sobre minha formação e cursos realizados:
 - Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Católica Paulista;
 - Tenho uma formação prática (curso livre) de 2000 horas em Desenvolvimento Web Full-Stack pela Kenzie Academy Brasil;
