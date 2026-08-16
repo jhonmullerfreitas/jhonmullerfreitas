@@ -28,3 +28,7 @@ Aqui você encontrará informações importantes sobre mim e poderá conferir al
 - Desenvolvedor Frontend;
 - Desenvolvedor Backend;
 - Analista de Sistemas.
+
+## Onde você me encontra:
+- Aqui no Github;
+- No Gmail: jmuller.jhon80@gmail.com
